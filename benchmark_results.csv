@@ -1,0 +1,5 @@
+records,Pandas,MapReduce,Spark,Fastest
+10000,0.03,0.07,1.76,Pandas
+100000,0.41,1.32,1.36,Pandas
+1000000,1.42,4.43,5.02,Pandas
+10000000,16.04,50.1,27.99,Pandas
